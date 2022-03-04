@@ -13,7 +13,7 @@
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/barcelosvs)](https://github.com/barcelosvs)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= www.linkedin.com/in/barcelosvs)](www.linkedin.com/in/barcelosvs)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barcelosvs/)](https://www.linkedin.com/in/barcelosvs/)  
 
 - Thanks for visiting.
 
