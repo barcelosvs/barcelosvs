@@ -7,7 +7,7 @@
 - :books: I’m currently learning front-end.
 - :outbox_tray: 2022 Goals: create a new project and find a job.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/barcelosvs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barcelosvs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barcelosvs&layout=compact&langs_count=7&theme=dark"/>
@@ -23,7 +23,7 @@
   ##
  
 <div> 
-  <a href = "victorbarcelos343@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "victorbarcelos343@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/barcelosvs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
