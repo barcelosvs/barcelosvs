@@ -14,7 +14,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/barcelosvs)](https://github.com/barcelosvs)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/victor-barcelos-santos-514a03225/)]( https://www.linkedin.com/in/victor-barcelos-santos-514a03225/)
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
 - Thanks for visiting.
 
