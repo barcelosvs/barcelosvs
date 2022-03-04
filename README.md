@@ -13,9 +13,8 @@
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/barcelosvs)](https://github.com/barcelosvs)
-
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= www.linkedin.com/in/barcelosvs)](www.linkedin.com/in/barcelosvs)
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
+- Enjoy it!! \o/
