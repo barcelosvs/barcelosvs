@@ -17,7 +17,7 @@
 
 ## Languages and Tools
 
-[![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/barcelosvs/github-readme-stats)
+[![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor)](https://github.com/barcelosvs/github-readme-stats)
 
 
 - Thanks for visiting.
