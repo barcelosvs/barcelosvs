@@ -4,7 +4,7 @@
 
 - :computer: I'm Front-End Developer!
 - :house_with_garden: I’m from Brazil.
-- :books: I’m currently learning front-end.
+- :books: I’m currently learning Python.
 - :outbox_tray: 2022 Goals: create a new project and find a job.
 
 <div align="left">
