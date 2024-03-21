@@ -2,10 +2,10 @@
 
 ## I'm Victor!
 
-- :computer: I'm Front-End Developer!
+- :computer: I'm Software Engineer!
 - :house_with_garden: I’m from Brazil.
-- :books: I’m currently learning Python.
-- :outbox_tray: 2022 Goals: create a new project and find a job.
+- :books: I’m currently learning Front-End and Python.
+- :outbox_tray: Goals: create a new project and find a job.
 
 <div align="left">
   <a href="https://github.com/barcelosvs">
