@@ -4,8 +4,8 @@
 
 - :computer: I'm Software Engineer!
 - :house_with_garden: I’m from Brazil.
-- :books: I’m currently learning Data Analytics.
-- :outbox_tray: Goals: Make a portifolio.
+- :books: I’m currently learning Data Engineer.
+- :outbox_tray:
 
 <div align="left">
   <a href="https://github.com/barcelosvs">
